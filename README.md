@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mtfugin.mtfugin" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Amerogin+Kamid!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?%20font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+%F0%9F%91%8B;+I%27m+Amerogin+Kamid!" />
 </h1>
 
 <!--
