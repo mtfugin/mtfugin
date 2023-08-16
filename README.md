@@ -4,7 +4,7 @@
 <h1 align="center>
   <a src="https://readme-typing-svg.herokuapp.com/?
 font=Righteous&size-35&center=true&vCenter=true&width=500&height=70&duration=400&line=Hi+there!+👋;+I'm+Pedro+Muniz!;" />
-</h1>h1
+</h1>
 
 <!--
 **mtfugin/mtfugin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
